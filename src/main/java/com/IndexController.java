@@ -9,4 +9,8 @@ public class IndexController {
     public String sayHello() {
         return "Hello,World!";
     }
+    public String sayyo() {
+        return "Hello,World!";
+    }
+    String yo="10";
 }
