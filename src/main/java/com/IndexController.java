@@ -12,5 +12,5 @@ public class IndexController {
     public String sayyo() {
         return "Hello,World!";
     }
-    String yo="10"
+    String yo="10";
 }
